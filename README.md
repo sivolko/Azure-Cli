@@ -40,4 +40,8 @@ Azure CLI can be used for
 
   az group create --name <WhateverResourceGroupName> --location westindia
 
+  ## Azure Command to Delete Resource Group
+
+  az group delete --resource-group <NameofResourceGroup>
+
 
