@@ -36,4 +36,8 @@ Azure CLI can be used for
 
   ## [official MS cheatsheet](https://learn.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest)
 
+  ## To create a Resource Group
+
+  az group create --name <WhateverResourceGroupName> --location westindia
+
 
